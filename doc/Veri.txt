@@ -1,0 +1,6 @@
+e(41#yavız)
+e(1#Yavuz)
+e(1#irem)
+s()
+e()
+s(-1)
